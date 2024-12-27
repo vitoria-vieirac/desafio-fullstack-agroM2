@@ -1,6 +1,6 @@
 # desafio-fullstack-agroM2
 
-Projeto desenvolvido com TypeScript, utilizando Nextjs no frontend e Nestjs no backend, PrismaORM e banco de daos PostgreSQL.
+Projeto desenvolvido com TypeScript, utilizando Nextjs no frontend e Nestjs no backend, PrismaORM e banco de dados PostgreSQL.
 
 Desenvolvimento de uma aplicação voltada para o gerenciamento de colheitas de soja.
 
